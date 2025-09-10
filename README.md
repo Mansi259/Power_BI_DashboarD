@@ -20,14 +20,18 @@ The dashboard highlights **key performance indicators (KPIs), trends, and insigh
 - **Power Query** for data transformation
 - **DAX** for calculated insights
 
-## 📷 Dashboard Previews  
 
-### 📍 Main Dashboard  
-![Main Dashboard](Dashboard%20(1).jpg)  
 
-### 📍 MTD Report  
-![MTD Report](MTD%20Report%20(1).jpg)  
 
-### 📍 Same Period Last Year Report  
+##  Dashboard Preview
+
+### Main Dashboard
+![Dashboard](Dashboard.jpg)
+
+### Month-to-Date Report
+![MTD Report](MTD%20Report.jpg)
+
+
+###  Same Period Last Year Report  
 ![Same Period Last Year Report](Same%20Period%20Last%20Year%20report.jpg)  
 
