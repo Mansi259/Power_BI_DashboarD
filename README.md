@@ -1,4 +1,4 @@
-# Microsoft Power BI Dashboard
+# Mobile sales Power BI Dashboard
 
 ### Live Dashboard
  [Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzYzOTYtOWRkNC00ZWM5LTkwM2MtNWE2YmI2YzkzNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
